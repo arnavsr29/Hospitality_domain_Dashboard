@@ -1,4 +1,7 @@
 # Hospitality Dashboard - Renenue Insights
+
+![Hospitaliy project Dashboard](https://github.com/user-attachments/assets/881a42b6-c337-438c-99c9-9621df2aa035)
+
 Introduction - This Power BI project focused on analyzing hotel business data from OYO Rooms. This project involved transforming raw data into actionable insights, enhancing my analytical skills.</br>
 
 TechStack - Microsoft Power BI</br>
